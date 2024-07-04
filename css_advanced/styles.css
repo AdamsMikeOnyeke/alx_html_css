@@ -1,6 +1,7 @@
 body {
     background-image: url(Object.png);
-    padding: 50px 150px 100px 150px;
+    padding: 63px 0px 100px 0px;
+    margin: 0px;
     background-repeat: no-repeat;
     background-size: contain;
     background-position: top;
@@ -15,8 +16,8 @@ body {
     justify-content: space-between; 
     align-items: center;
     cursor: pointer;
-    margin-left: 100px;
-    margin-right: 100px;
+    margin-left: 210px;
+    margin-right: 210px;
 }
 
 .nav-link {
@@ -90,4 +91,20 @@ body {
     gap: 300px;
 }
 
+.second-section {
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+    background-color: #C271FF;
+    align-items: center;
+    padding: 100px 60px 100px 60px;
+    justify-content: center;
+    height: 400px;
+}
+
+.sub-second-section {
+    color: white;
+    font-size: 30px;
+    font-family: sans-serif;
+}
 
