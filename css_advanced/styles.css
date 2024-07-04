@@ -108,3 +108,18 @@ body {
     font-family: sans-serif;
 }
 
+.third-section {
+    display: flex;
+    flex-direction: column;
+    padding-left: 200px;
+    margin-top: 80px;
+}
+
+.sub-third-section2 {
+    display: flex;
+    flex-direction: row;
+    gap: 70px;
+    margin-top: 150px;
+}
+
+
