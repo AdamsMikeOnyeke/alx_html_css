@@ -1,1 +1,0 @@
-This website is for a company that produces and sell headphones
